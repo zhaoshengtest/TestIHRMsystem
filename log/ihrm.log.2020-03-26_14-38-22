@@ -1,0 +1,12 @@
+2020-03-26 14:38:11,855 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '7b78b367-05bd-40c6-8720-d792f6e64a17'}
+2020-03-26 14:38:12,016 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,172 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,307 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,494 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,656 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,803 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:12,963 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8ad3d761-307e-48df-851c-bc19adc4480a'}
+2020-03-26 14:38:13,153 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:13,305 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 14:38:13,472 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-26 14:38:13,661 INFO [root] [test_emp03_parameterized.py(test01_login:37)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
